@@ -1,6 +1,6 @@
 # Tabela Jogos
 
-![Imagem Lan House Coreana] (https://i.ytimg.com/vi/yDaSjsbyAI4/maxresdefault.jpg)
+![Imagem Lan House Coreana](https://i.ytimg.com/vi/yDaSjsbyAI4/maxresdefault.jpg)
 
 ## Desafio Proposto na Imersão Dev da Alura
 
